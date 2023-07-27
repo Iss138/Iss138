@@ -1,5 +1,5 @@
 Hello, I'm Iss138 👋
-About Me
+About Me:
 I am currently learning JavaScript and exploring the world of web development. As a budding developer, I'm excited about building interactive and user-friendly applications that solve real-world problems.
 
 🌱 I’m currently learning: JavaScript, and Node.js. (i am so far not so good with javascript lol)
