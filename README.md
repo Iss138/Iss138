@@ -6,6 +6,6 @@ Hi, I'm Iss138/7 (either works, 137 or 138)
 I like tech, AI, and transit, as well as Right To Repair, Right To Own and FOSS.
 
 ### Contact
-[Email](iss138@proton.me) is best.
+[Email](mailto:iss138@proton.me) is best.
 
 ##### More to be added here soon
